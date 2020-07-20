@@ -1,11 +1,11 @@
 # Site settings
 author: Haley Grassi
-title: 
+title: The World of Software Engineering
 header-img: img/home-bg.png
 email: teacherhaleymarie@gmail.com
 copyright_name: Haley Grassi
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog about what a new software engineer learns. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Halezmarie
