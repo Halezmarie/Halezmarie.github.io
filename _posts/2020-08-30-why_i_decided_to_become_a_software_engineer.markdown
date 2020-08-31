@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why I Decided to Become a Software Engineer!"
-date:       2020-08-31 01:09:14 +0000
+date:       2020-08-30 21:09:15 -0400
 permalink:  why_i_decided_to_become_a_software_engineer
 ---
 
@@ -19,7 +19,7 @@ Exactly! For the last year, I have been daydreaming about the possibility of bei
 
 ![](https://media.giphy.com/media/vQqeT3AYg8S5O/giphy.gif)
 
-As a teacher, I've been telling my students that they are capable of doing whatever they set their mind to.It turns out that the saying is true as well for Ms. Grassi, who knew? I've always been considered "tech savvy" amongst my friends and family members, but I didn't think I could do anything like this. So now I am no longer gaming in my free time, I am coding. Oddly enough, I am satisfied with that because I am gradually making a career change that I believe is my calling. 
+As a teacher, I've been telling my students that they are capable of doing whatever they set their mind to. It turns out that the saying is true as well for Ms. Grassi, who knew? I've always been considered "tech savvy" amongst my friends and family members, but I didn't think I could do anything like this. So now I am no longer gaming in my free time, I am coding. Oddly enough, I am satisfied with that because I am gradually making a career change that I believe is my calling. 
 
 Until next time!
 
