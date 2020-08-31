@@ -11,7 +11,7 @@ permalink:  why_i_decided_to_become_a_software_engineer
 
 Well, my love for technology all started back on July 16, 1993. The moment I was born, I knew that I was destined to be a software engineer. 
 
-Haha, just kidding! If only life was that simple, right? I went from wanting to be a gymnastics coach, to nursing, and then eventually I settled with teaching. I am now coming on my third year as an elementary teacher, and as much as I wished it would've worked it, it just isn't compatible with me. People often say, "Oh, but you get so much time off!" but what's the point if the job doesn't make me happy? 
+Haha, just kidding! If only life was that simple, right? I went from wanting to be a gymnastics coach, to nursing, and then eventually I settled with teaching. I am now coming on my third year as an elementary teacher, and as much as I wish my first career would've worked out, it just isn't compatible with who I am as a person. People often say, "Oh, but you get so much time off!" but what's the point if the job doesn't make me happy? 
 
 ![](https://media.giphy.com/media/G6IATw3N0jhIc/giphy.gif)
 
